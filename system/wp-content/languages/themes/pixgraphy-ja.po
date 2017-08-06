@@ -1,0 +1,578 @@
+# Translation of Themes - Pixgraphy in Japanese
+# This file is distributed under the same license as the Themes - Pixgraphy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-25 10:58:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Pixgraphy\n"
+
+#. #-#-#-#-#  pixgraphy.pot (Pixgraphy 1.2.0.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/upgrade-plus/class-customize.php:63
+msgid "Pixgraphy"
+msgstr "Pixgraphy"
+
+#: functions.php:141
+msgid "Support Ticket"
+msgstr "サポートチケット"
+
+#: inc/upgrade-plus/class-customize.php:64
+msgid "Upgrade To Plus"
+msgstr "Plus にアップグレード"
+
+#: inc/customizer/functions/theme-options.php:126
+msgid "Display Page Featured Image"
+msgstr "アイキャッチ画像をページに表示する"
+
+#. Template Name of the plugin/theme
+msgid "Gallery Template"
+msgstr "ギャラリーテンプレート"
+
+#. Template Name of the plugin/theme
+msgid "Contact Template"
+msgstr "お問い合わせテンプレート"
+
+#: single.php:103
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:102
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:98
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: single.php:97
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: searchform.php:18
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: pagination.php:22
+msgid "Next Page &raquo;"
+msgstr "次のページ &raquo;"
+
+#: pagination.php:19
+msgid "&laquo; Previous Page"
+msgstr "&laquo; 前のページ"
+
+#: page-templates/gallery-template.php:39 page.php:48 single.php:71
+msgid "Pages:"
+msgstr "ページ:"
+
+#: index.php:41 page-templates/contact-template.php:51
+#: page-templates/gallery-template.php:52 page.php:61 search.php:38
+#: single.php:112
+msgid "No Posts Found."
+msgstr "投稿は見つかりませんでした。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:50
+msgid "Add WooCommerce Widgets Only"
+msgstr "WooCommerce ウィジェットのみに追加する"
+
+#: inc/widgets/widgets-functions/register-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: inc/widgets/widgets-functions/register-widgets.php:41
+msgid "Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+msgstr "テキストウィジェットを使用して Contact Form 7 のショートコードを追加します。例: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+
+#: inc/widgets/widgets-functions/register-widgets.php:39
+msgid "Shortcode For Contact Page"
+msgstr "お問い合わせページのショートコード"
+
+#: inc/widgets/widgets-functions/register-widgets.php:32
+msgid "Shows widgets on Contact Page Template."
+msgstr "お問い合わせページテンプレートでウィジェットを表示します。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Contact Page Sidebar"
+msgstr "問い合わせページのサイドバー"
+
+#: inc/widgets/widgets-functions/register-widgets.php:25
+msgid "Shows widgets on all page."
+msgstr "すべてのページにウィジェットを表示する"
+
+#: inc/widgets/widgets-functions/register-widgets.php:23
+msgid "Display Contact Info at Header "
+msgstr "ヘッダーに連絡先情報を表示する"
+
+#: inc/widgets/widgets-functions/register-widgets.php:16
+msgid "Shows widgets at Main Sidebar."
+msgstr "メインサイドバーにウィジェットを表示する。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:14
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr "メール ID:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr "Skype ID:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr "電話番号2:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr "電話番号1:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr "住所のリンク:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr "住所:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr "連絡先タイトル:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr "TF: お問い合わせ"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr "お問い合わせ情報を表示する"
+
+#: inc/settings/pixgraphy-common-functions.php:108
+msgid "Search Results"
+msgstr "検索結果"
+
+#: inc/settings/pixgraphy-common-functions.php:106
+msgid "Page NOT Found"
+msgstr "ページが見つかりません"
+
+#: inc/settings/pixgraphy-common-functions.php:95
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/settings/pixgraphy-common-functions.php:93
+msgid "links"
+msgstr "リンク"
+
+#: inc/settings/pixgraphy-common-functions.php:91
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/settings/pixgraphy-common-functions.php:89
+msgid "Status"
+msgstr "ステータス"
+
+#: inc/settings/pixgraphy-common-functions.php:87
+msgid "Videos"
+msgstr "動画"
+
+#: inc/settings/pixgraphy-common-functions.php:85
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/settings/pixgraphy-common-functions.php:83
+msgid "Images"
+msgstr "画像"
+
+#: inc/settings/pixgraphy-common-functions.php:81
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/settings/pixgraphy-common-functions.php:79
+msgid "Audios"
+msgstr "オーディオ"
+
+#: inc/settings/pixgraphy-common-functions.php:77
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: inc/settings/pixgraphy-common-functions.php:75
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: inc/settings/pixgraphy-common-functions.php:73
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: inc/settings/pixgraphy-common-functions.php:70
+msgid "Author: %s"
+msgstr "著者: %s"
+
+#: inc/settings/pixgraphy-common-functions.php:21
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: inc/settings/pixgraphy-common-functions.php:18
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: inc/settings/pixgraphy-common-functions.php:15
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: inc/footer-details.php:18
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/footer-details.php:18
+msgid "Powered by:"
+msgstr "Powered by:"
+
+#. #-#-#-#-#  pixgraphy.pot (Pixgraphy 1.2.0.3)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/footer-details.php:17
+msgid "Theme Freesia"
+msgstr "Theme Freesia"
+
+#: inc/footer-details.php:17
+msgid "Designed by:"
+msgstr "Designed by:"
+
+#: inc/customizer/functions/theme-options.php:210
+msgid "Static Front Page"
+msgstr "静的フロントページ"
+
+#: inc/customizer/functions/theme-options.php:205
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: inc/customizer/functions/theme-options.php:200
+msgid "Background Image"
+msgstr "背景イメージ"
+
+#: inc/customizer/functions/theme-options.php:195
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer/functions/theme-options.php:189
+msgid "Footer Link"
+msgstr "フッターリンク"
+
+#: inc/customizer/functions/theme-options.php:178
+msgid "Footer Title"
+msgstr "フッタータイトル"
+
+#: inc/customizer/functions/theme-options.php:166
+msgid "Image will be displayed on footer"
+msgstr "画像はフッターに表示されます"
+
+#: inc/customizer/functions/theme-options.php:154
+#: inc/customizer/functions/theme-options.php:165
+msgid "Footer Background Image"
+msgstr "フッター背景画像"
+
+#: inc/customizer/functions/theme-options.php:148
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/customizer/functions/theme-options.php:137
+msgid "Enter your custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: inc/customizer/functions/theme-options.php:132
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr "標準の設定をすべてリセットします。(効果の確認のために初期化)"
+
+#: inc/customizer/functions/theme-options.php:109
+msgid "Disable Buttom Social Icons"
+msgstr "ソーシャルアイコンボタンを無効にする"
+
+#: inc/customizer/functions/theme-options.php:98
+msgid "Disable Top Social Icons"
+msgstr "上部ソーシャルアイコンを無効にする"
+
+#: inc/customizer/functions/theme-options.php:87
+msgid "Disable Goto Top"
+msgstr "Goto Top を無効にする"
+
+#: inc/customizer/functions/theme-options.php:76
+msgid "Disable Stick Menu"
+msgstr "上部固定メニューを無効にする"
+
+#: inc/customizer/functions/theme-options.php:65
+msgid "Disable Search Form"
+msgstr "検索フォームを無効にする"
+
+#: inc/customizer/functions/theme-options.php:54
+msgid "Pixgraphy Options"
+msgstr "Pixgraphy オプション"
+
+#: inc/customizer/functions/theme-options.php:36
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/customizer/functions/theme-options.php:32
+msgid "Disable Both"
+msgstr "両方とも無効にする"
+
+#: inc/customizer/functions/theme-options.php:31
+msgid "Show Both"
+msgstr "両方とも表示する"
+
+#: inc/customizer/functions/theme-options.php:30
+msgid "Display Site Logo Only"
+msgstr "サイトロゴのみ表示する"
+
+#: inc/customizer/functions/theme-options.php:29
+msgid "Display Site Title Only"
+msgstr "サイトタイトルのみ表示する"
+
+#: inc/customizer/functions/theme-options.php:23
+msgid "Site Logo/ Text Options"
+msgstr "サイトロゴ / テキストオプション"
+
+#: inc/customizer/functions/theme-options.php:12
+msgid "Site Title & Logo Options"
+msgstr "サイトタイトル & ロゴオプション"
+
+#: inc/customizer/functions/social-icons.php:109
+msgid "Google Plus Link"
+msgstr "Google Plus リンク"
+
+#: inc/customizer/functions/social-icons.php:95
+msgid "Flickr Link"
+msgstr "Flickr リンク"
+
+#: inc/customizer/functions/social-icons.php:81
+msgid "Instagram Link"
+msgstr "Instagram リンク"
+
+#: inc/customizer/functions/social-icons.php:67
+msgid "Dribbble Link"
+msgstr "Dribbble リンク"
+
+#: inc/customizer/functions/social-icons.php:53
+msgid "Pinterest Link"
+msgstr "Pinterest リンク"
+
+#: inc/customizer/functions/social-icons.php:39
+msgid "Twitter Link"
+msgstr "Twitter リンク"
+
+#: inc/customizer/functions/social-icons.php:25
+msgid "Facebook Link"
+msgstr "Facebook リンク"
+
+#: inc/customizer/functions/social-icons.php:12
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/functions/register-panel.php:46
+msgid "Pixgraphy Widgets"
+msgstr "Pixgraphy ウィジェット"
+
+#: inc/customizer/functions/register-panel.php:36
+msgid "Pixgraphy Slider Options"
+msgstr "Pixgraphy スライダーオプション"
+
+#: inc/customizer/functions/register-panel.php:26
+msgid "Pixgraphy Theme Options"
+msgstr "Pixgraphy テーマオプション"
+
+#: inc/customizer/functions/register-panel.php:16
+msgid "Pixgraphy WordPress Settings"
+msgstr "Pixgraphy WordPress 設定"
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+msgid "Disable Slider"
+msgstr "スライダーを無効にする"
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/customizer/functions/featured-content-customizer.php:28
+msgid "Front Page"
+msgstr "トップページ"
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr "スライダーを有効にする"
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: inc/customizer/functions/design-options.php:111
+msgid "Small Boxed Layout"
+msgstr "小ボックスレイアウト"
+
+#: inc/customizer/functions/design-options.php:110
+msgid "Boxed Layout"
+msgstr "ボックスレイアウト"
+
+#: inc/customizer/functions/design-options.php:109
+msgid "Full Width Layout"
+msgstr "全幅レイアウト"
+
+#: inc/customizer/functions/design-options.php:104
+msgid "Design Layout"
+msgstr "デザインレイアウト"
+
+#: inc/customizer/functions/design-options.php:94
+msgid "Hide Entry Meta"
+msgstr "エントリーメタを隠す"
+
+#: inc/customizer/functions/design-options.php:93
+msgid "Display Entry Meta"
+msgstr "エントリーメタを表示する"
+
+#: inc/customizer/functions/design-options.php:89
+msgid "Disable Entry Meta from Blog Page"
+msgstr "ブログページからエントリーメタを無効にする"
+
+#: inc/customizer/functions/design-options.php:79
+msgid "Hide Button Only"
+msgstr "ボタンのみ隠す"
+
+#: inc/customizer/functions/design-options.php:78
+msgid "Show Button Only"
+msgstr "ボタンのみ表示"
+
+#: inc/customizer/functions/design-options.php:77
+msgid "Hide Entry Format"
+msgstr "エントリーフォーマットを隠す"
+
+#: inc/customizer/functions/design-options.php:76
+msgid "Display Entry Format"
+msgstr "エントリーフォーマットを表示する"
+
+#: inc/customizer/functions/design-options.php:72
+msgid "Disable Entry Format from Blog Page"
+msgstr "ブログページからエントリーフォーマットを無効にする"
+
+#: inc/customizer/functions/design-options.php:62
+msgid "Blog medium image display"
+msgstr "ブログの中サイズ画像表示"
+
+#: inc/customizer/functions/design-options.php:61
+msgid "Blog large image display"
+msgstr "ブログの大サイズ画像表示"
+
+#: inc/customizer/functions/design-options.php:55
+#: inc/customizer/functions/design-options.php:60
+msgid "Photography Layout"
+msgstr "Photography レイアウト"
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Animation Options"
+msgstr "アニメーションオプション"
+
+#: inc/customizer/functions/design-options.php:29
+#: inc/customizer/functions/design-options.php:45
+msgid "OFF"
+msgstr "OFF"
+
+#: inc/customizer/functions/design-options.php:28
+#: inc/customizer/functions/design-options.php:44
+msgid "ON "
+msgstr "ON "
+
+#: inc/customizer/functions/design-options.php:23
+msgid "Responsive Layout"
+msgstr "レスポンシブレイアウト"
+
+#: inc/customizer/functions/design-options.php:12
+msgid "Layout Options"
+msgstr "レイアウトオプション"
+
+#: functions.php:148
+msgid "About Pixgraphy"
+msgstr "Pixgraphy について"
+
+#: functions.php:142
+msgid "Forum"
+msgstr "フォーラム"
+
+#: functions.php:138 functions.php:139
+msgid "Theme Instructions"
+msgstr "テーマ手順"
+
+#: functions.php:135 functions.php:136
+msgid "Review Pixgraphy"
+msgstr "Pixgraphy のレビュー"
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: footer.php:66
+msgid "Go to Top"
+msgstr "Go to Top"
+
+#: content.php:118
+msgid "% <i class=\"fa fa-comment\"></i>"
+msgstr "% <i class=\"fa fa-comment\"></i>"
+
+#: content.php:118
+msgid "<i class=\"fa fa-comment\"></i>"
+msgstr "<i class=\"fa fa-comment\"></i>"
+
+#: content.php:77
+msgid "Read More"
+msgstr "もっと読む"
+
+#: content.php:65 single.php:86
+msgid ", "
+msgstr ", "
+
+#: content.php:63 single.php:84
+msgid "Category : "
+msgstr "カテゴリー : "
+
+#: content.php:30 content.php:118 single.php:53
+msgid "Comments Off"
+msgstr "コメントは受け付けていません"
+
+#: content.php:30 single.php:53
+msgid "% Comments"
+msgstr "% コメント"
+
+#: content.php:30 single.php:53
+msgid "1 Comment"
+msgstr "1 コメント"
+
+#: content.php:30 single.php:53
+msgid "No Comments"
+msgstr "コメントなし"
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "コメントは締め切りました。"
+
+#: comments.php:18
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件のコメント"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "そのページは見つかりませんでした。"
+
+#. Author URI of the plugin/theme
+msgid "https://themefreesia.com"
+msgstr "https://themefreesia.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themefreesia.com/themes/pixgraphy"
+msgstr "https://themefreesia.com/themes/pixgraphy"
